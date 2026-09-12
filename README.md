@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chaton2325
 - 👀 I’m interested in computer science
-- 🌱 I’m currently learning computer science engineering
+- 🌱 I’m currently datascientist
 - 💞️ I’m looking to collaborate on python project
 - 📫 How to reach me developpement0123@gmail.com
 - 💥learn python in my youtube channel : https://www.youtube.com/@AthanaseRalph2231
